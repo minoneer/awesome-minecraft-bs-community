@@ -183,6 +183,7 @@
 - [Connect](https://connect.minekube.com/) - Open shared Minecraft network for advertising public and local host servers.
 - [LuckPerms](https://luckperms.net/) - Manage permissions.
 - [CoreProtect](https://github.com/PlayPro/CoreProtect) - Log everything your players do. Literally 1984.
+- [uSkyBlock](https://uskyblock.org) - Skyblock plugin for Paper and Spigot with challenges, island levels and parties.
 
 ## Resource Packs
 
